@@ -2,11 +2,11 @@
 This project benchmarks the performance of six popular supervised learning algorithms on two datasets: the Heart Disease Dataset and the Loan Approval Dataset with default parameters, and Hyperparameter Tuned using GridSearchCV. The goal is to evaluate and compare the accuracy, precision, recall, and other performance metrics of these models to identify the most effective algorithm for each dataset.
 
 The Supervised Learning Algorithms: compared are:
-Logistic Regression
-Decision Tree
-Random Forest
-Support Vector Machine (SVM)
-K-Nearest Neighbors (KNN)
+Logistic Regression,
+Decision Tree,
+Random Forest,
+Support Vector Machine (SVM),
+K-Nearest Neighbors (KNN),
 AdaBoost
 
 Datasets:
