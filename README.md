@@ -7,7 +7,7 @@ Decision Tree,
 Random Forest,
 Support Vector Machine (SVM),
 K-Nearest Neighbors (KNN),
-AdaBoost
+AdaBoost.
 
 Datasets:
 Heart Disease Dataset: Used to predict the presence of heart disease in patients based on clinical features.
