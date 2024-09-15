@@ -11,7 +11,10 @@ AdaBoost
 Datasets:
 Heart Disease Dataset: Used to predict the presence of heart disease in patients based on clinical features.
 Loan Approval Dataset: Used to predict loan approval decisions based on applicant data.
+The links for the datasets are:
+Heart Disease Dataset: https://www.kaggle.com/datasets/rishidamarla/heart-disease-prediction/data
+Loan Approval Dataset: https://www.kaggle.com/datasets/bhavikjikadara/loan-status-prediction
 Key Features:
-Performance evaluation using accuracy, precision, recall, F1-score, and ROC-AUC.
+Performance evaluation using accuracy, precision, recall, and F1-score.
 Comparative analysis of model performance on different datasets.
 Code and results are well-documented for ease of understanding and reproducibility.
